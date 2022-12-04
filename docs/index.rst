@@ -18,7 +18,9 @@ Installation
 
 Install discord-helpers by running:
 
-`pip install discord-helpers`
+```
+pip install discord-helpers
+```
 
 Contribute
 ----------
