@@ -5,22 +5,22 @@ discord-helpers
 
 Look how easy it is to use:
 
-``
-import discord-helpers
+.. code-block:: py
+    import discord-helpers
 
-discord-helpers.humanize_permissions(channel.permissions)
+    discord-helpers.humanize_permissions(channel.permissions)
 
->>> ['Administrator', 'Manage Roles', 'Manage Guild', 'Manage Messages']
-``
+    >>> ['Administrator', 'Manage Roles', 'Manage Guild', 'Manage Messages']
+
 
 Installation
 ------------
 
 Install discord-helpers by running:
 
-``
-pip install discord-helpers
-``
+.. code-block:: py
+    pip install discord-helpers
+
 
 Contribute
 ----------
