@@ -3,6 +3,7 @@ from discord import User, Member, Guild, Role, Permissions
 from typing import Optional, Union
 
 def humanize_perms(perms: Permissions):
+  """Humanize Discord permissions into readable permissions"""
   simplified = []
   key_perms = ['Administrator','Kick Members', 'Ban Members', 'Manage Channels', 'Manage Guild', 'View Audit Log', 'Manage Nicknames', 'Manage Roles', 'Manage Webhooks', 'Manage Emojis', 'Manage Events', 'Manage Threads', 'Moderate Members', 'Create Public Threads', 'Create Private Threads']
   perms = dict(perms)
