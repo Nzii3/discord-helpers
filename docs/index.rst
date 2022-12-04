@@ -5,9 +5,11 @@ discord-helpers
 
 Look how easy it is to use:
 
-```Python
+```
 import discord-helpers
+
 discord-helpers.humanize_permissions(channel.permissions)
+
 >>> ['Administrator', 'Manage Roles', 'Manage Guild', 'Manage Messages']
 ```
 
