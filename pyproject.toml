@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "discord-helpers"
+version = "1.0.0"
+description = "A package that provides helper functions to make your coding process faster"
+authors = ["Nziie"]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.8"
+homepage = "https://github.com/Nzii3/discord-helpers"
+repository = "https://github.com/Nzii3/discord-helpers"
+documentation = "https://nziie.is-a.dev/blog/"
+keywords = ["helper-functions", "discord-helpers", "python-helpers"]
+[tool.poetry.dependencies]
+python = ">=3.6.2,<4.0"
+
+[project.optional-dependencies]
+discord.py = ">=2.0.0"
+py-cord = ">=2.0.0"
