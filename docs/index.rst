@@ -25,13 +25,13 @@ Install discord-helpers by running:
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: https://github.com/Nzii3/discord-helpers/issues
+- Source Code: ttps://github.com/Nzii3/discord-helpers
 
 Support
 -------
 
-If you are having issues, please let us know.
+If you are having issues, feel free to `make an issue <https://github.com/Nzii3/discord-helpers/issues>`_.
 We have a mailing list located at: project@google-groups.com
 
 License
